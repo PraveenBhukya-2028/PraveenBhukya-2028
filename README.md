@@ -126,13 +126,22 @@ Exploring data analysis, SQL, Python and data engineering through practical proj
 
 ---
 
+
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenBhukya-2028&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PraveenBhukya-2028&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenBhukya-2028&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenBhukya-2028&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PraveenBhukya-2028&theme=github-dark-blue&hide_border=true" width="70%"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PraveenBhukya-2028&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PraveenBhukya-2028&style=for-the-badge&color=161b22&label=PROFILE+VIEWS"/>
+</p>
+
 
 ---
 
