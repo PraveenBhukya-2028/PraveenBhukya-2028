@@ -166,7 +166,7 @@ Exploring data analysis, SQL, Python and data engineering through practical proj
 
 💻 GitHub: [PraveenBhukya-2028](https://github.com/PraveenBhukya-2028)
 
-📧 Email: Available upon request
+📧 Email: bhukya.praveen2026@gmail.com
 
 ---
 
